@@ -1,7 +1,7 @@
 # LAB_DICTIONARIES
 
 
-## Q1:Build a phone book program that receives the phone number (Use Input to let the user provide the number), and returns the name of the owner. 
+## Q1:Build a phone book program that receives the phone number (Use Input to let the user provide the number), and returns the name of the owner.
 You can follow the table below:
 
 | Name    | Number      |
